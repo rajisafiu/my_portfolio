@@ -1,0 +1,78 @@
+.herosection {
+    background-image: url(./picture/kola.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  /* Ensures the image covers the full section */
+    display: flex;
+    flex-direction: column;  /* Aligns content vertically */
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-position: center;
+    color: white;
+    text-align: center;  /* Centers text content */
+}
+
+.content {
+    font-size: 30px;
+}
+
+p {
+    font-size: larger;
+    color: white;
+    text-align: center;  /* Centers text properly */
+}
+
+
+
+
+/* services */
+
+.services{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+/* cards services */
+
+img{
+    border-radius: 30%;
+
+}
+
+.portfolio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+
+}
+
+.kola{
+    border-radius: 0%;
+}
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background: rgba(59, 73, 136, 0.459);
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.service-image{
+    border: none;
+    border-radius: 0%;
+}
+  
+.card-text{
+    color: black;
+}
+
+.testimonials-text{
+    color: black;
+}
