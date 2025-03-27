@@ -1,5 +1,5 @@
 .herosection {
-    background-image: url(./picture/kola.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./picture/kola.jpg);;
     background-repeat: no-repeat;
     background-size: cover;  /* Ensures the image covers the full section */
     display: flex;
