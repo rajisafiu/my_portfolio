@@ -54,6 +54,12 @@ img{
     border-radius: 0%;
 }
 
+
+.gallery-section-image{
+    border: none;
+    border-radius: 0%;
+}
+
 /* footer */
 
 footer {
